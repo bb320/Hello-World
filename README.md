@@ -1,6 +1,6 @@
 #encoding: UTF-8
 # Hello-World
-# Git Æ©Åä¸®¾ó
+# Git 
 	- feature-A
 	- Fix -B
 	- add feature test
